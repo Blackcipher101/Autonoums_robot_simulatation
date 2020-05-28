@@ -26,12 +26,6 @@ physics engine, high-quality graphics, and convenient programmatic and graphical
 ## Xacro
 <p>Xacro (XML Macros) Xacro is an XML macro language. With xacro, you can construct shorter and more readable XML files by using macros that expand to larger XML expressions.</p>
 
-### Funtionalaties
-<ul>
-<li>Obstacle avoidance</li>
-<li>Path planning</li>
-<li>Works with the website</li>
-</ul>
 
 #### Introduction 
 To setup this project first setup a ROS package(<a href="http://wiki.ros.org/ROS/Tutorials/BuildingPackages">tutrioal</a>)
